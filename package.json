@@ -1,0 +1,14 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Just a little playgorund",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jolle",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
